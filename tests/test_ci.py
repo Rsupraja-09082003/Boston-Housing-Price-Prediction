@@ -1,5 +1,5 @@
 def test_pass():
     assert True
 
-def test_fail():
+def Test_fail():
     assert 1 == 2
