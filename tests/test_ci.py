@@ -1,4 +1,4 @@
-def test_pass():
+def Test_pass():
     assert True
 
 def test_fail():
